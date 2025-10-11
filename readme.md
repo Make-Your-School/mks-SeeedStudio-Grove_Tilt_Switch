@@ -1,4 +1,3 @@
-
 ---
 title: "Kippschalter"
 date: "2018-10-01T13:42:53.000Z"
