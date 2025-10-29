@@ -16,9 +16,6 @@ repo_part: "Grove_Tilt_Switch"
 product_url: "https://wiki.seeedstudio.com/Grove-Tilt_Switch/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Tilt_Switch.git"
 embedded_example_file: "examples/Grove_Tilt_Switch_minimal/Grove_Tilt_Switch_minimal.ino"
-title: 'Kippschalter'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
